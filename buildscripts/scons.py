@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Scons module."""
 
+"""Commenting"""
+
 import os
 import sys
 
