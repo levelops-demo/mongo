@@ -5,7 +5,7 @@
 # it under the terms of the Server Side Public License, version 1,
 # as published by MongoDB, Inc.
 #
-# This program is distributed in the hope that it will be useful,
+# This program is distributed in the hope that it will be usdhjfgkdjeful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # Server Side Public License for more details.
